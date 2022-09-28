@@ -1,29 +1,33 @@
 {
   "main": {
-    "id": "4e6bc6dc69258789",
+    "id": "c138453648c286ae",
     "type": "split",
     "children": [
       {
-        "id": "34a604c7bc33f7a8",
+        "id": "8c98bb257d7f4b88",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "post/test.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6993e1183435edcd",
+    "id": "e0a6e8c2e3268f0a",
     "type": "split",
     "children": [
       {
-        "id": "dbb5ee369bb2f251",
+        "id": "708694ae6d078dfa",
         "type": "tabs",
         "children": [
           {
-            "id": "8f540066f7c15b97",
+            "id": "5ac833cc67808fef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "69712f5b6a55c6d5",
+            "id": "cdce38a7b69a00b9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,7 +50,7 @@
             }
           },
           {
-            "id": "617b152888563008",
+            "id": "fce4d35d2cc595c1",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -57,22 +61,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 284
   },
   "right": {
-    "id": "d84b831bcbe66ca0",
+    "id": "cebdc556c07817ad",
     "type": "split",
     "children": [
       {
-        "id": "2e1a9e1dd7a1d630",
+        "id": "2bcf1f2b12f3e29f",
         "type": "tabs",
         "children": [
           {
-            "id": "02792001d56afc8d",
+            "id": "72024598e839ae5d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "post/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,18 +89,19 @@
             }
           },
           {
-            "id": "5371ec628cc1e64d",
+            "id": "b6a8e8c3de781a43",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "post/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9aa3c5a795c8f7e8",
+            "id": "20ff0c304e5068c7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,20 +112,41 @@
             }
           },
           {
-            "id": "de65616f7dca40fc",
+            "id": "0c3b01d5da426fed",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "post/test.md"
+              }
+            }
+          },
+          {
+            "id": "212c3019d8ed7e33",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 285
   },
-  "active": "34a604c7bc33f7a8",
-  "lastOpenFiles": []
+  "active": "8c98bb257d7f4b88",
+  "lastOpenFiles": [
+    "digital-garden/src/site/notes/post/test.md",
+    "digital-garden/src/site/notes/post/GLUCOSE.md",
+    "digital-garden/src/site/notes/main.md",
+    "digital-garden/README.md",
+    "digital-garden/src/site/notes/home.mdx.md",
+    "Main.md",
+    "GLUCOSE.md",
+    "양자 컴퓨팅.md",
+    "채용 관련.md",
+    "2022-09-27.md"
+  ]
 }
