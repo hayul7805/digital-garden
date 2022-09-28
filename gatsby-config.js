@@ -4,7 +4,7 @@ module.exports = {
       resolve: `gatsby-theme-garden`,
       options: {
         contentPath: `${__dirname}/src/site/notes`,
-        rootNote: `/notes`,
+        rootNote: `digital-garden/src/site/notes/main.md`,
       },
     },
     `gatsby-plugin-netlify`
