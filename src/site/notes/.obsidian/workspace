@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 168
   },
   "right": {
     "id": "cebdc556c07817ad",
@@ -134,14 +134,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 127
   },
   "active": "8c98bb257d7f4b88",
   "lastOpenFiles": [
-    "main.md",
     "post/코딩테스트.md",
-    "post/GLUCOSE.md",
+    "main.md",
     "post/기능개발.md",
+    "post/GLUCOSE.md",
     "post/논문 리뷰.md",
     "post/test.md",
     "digital-garden/src/site/notes/post/test.md",

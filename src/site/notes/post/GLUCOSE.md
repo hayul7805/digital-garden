@@ -91,13 +91,12 @@ dg-publish: true
   
 
 앞에서도 언급했지만, GLUCOSE 데이터는 아주 흥미로운 규칙으로 구축되었다. 논문의 표현을 가져오면 다음과 같다.
-
   
 
+>[!note]
 > S라는 짧은 이야기의 X라는 선택된 문장이 주어지면, GLUCOSE는 X와 관련된, 인간의 인지 심리학에 영향을 받은 10가지 차원의 commonsense causal explanations을 정의한다.
 
   
-
 뿐만 아니라, GLUCOSE는 commonsense knowledge를 세상에 관한 ‘미니 이론’이라고 할 수 있는 **‘반정형 추론 법칙(semi-structured inference rules)'** 의 형태로 인코딩하고, 각각은 구체적인 이야기에 근거한다는 특징도 있다.
 
   
