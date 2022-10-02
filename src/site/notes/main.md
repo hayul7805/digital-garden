@@ -4,6 +4,8 @@ dg-publish: true
 ---
 
 # Main
+<img src="./assets/my-mimoticon.png" width="200" height="200">
+
 안녕하세요?  
 저의 개발 블로그, '하율의 디지털 가든'입니다.  
 여기에 앞으로의 포스팅이 업로드 됩니다.  
@@ -12,6 +14,5 @@ dg-publish: true
 
 ## Contents
 1. [[코딩테스트]]
-	1. [[기능개발]]
 2. [[논문 리뷰]]
 

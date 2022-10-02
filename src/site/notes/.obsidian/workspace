@@ -7,12 +7,8 @@
         "id": "8c98bb257d7f4b88",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "main.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 168
+    "width": 284
   },
   "right": {
     "id": "cebdc556c07817ad",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "main.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,23 +122,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 127
+    "width": 285
   },
   "active": "8c98bb257d7f4b88",
   "lastOpenFiles": [
-    "post/코딩테스트.md",
-    "main.md",
-    "post/기능개발.md",
-    "post/GLUCOSE.md",
-    "post/논문 리뷰.md",
     "post/test.md",
     "digital-garden/src/site/notes/post/test.md",
     "digital-garden/src/site/notes/post/GLUCOSE.md",
     "digital-garden/src/site/notes/main.md",
-    "digital-garden/README.md"
+    "digital-garden/README.md",
+    "digital-garden/src/site/notes/home.mdx.md",
+    "Main.md",
+    "GLUCOSE.md",
+    "양자 컴퓨팅.md",
+    "채용 관련.md"
   ]
 }
