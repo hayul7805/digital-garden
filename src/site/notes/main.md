@@ -4,7 +4,7 @@ dg-publish: true
 ---
 
 # Main
-![me](./assets/my-mimoticon.png)
+![Main](./assets/garden_main.jpg)
 
 안녕하세요?  
 저의 개발 블로그, '하율의 디지털 가든'입니다.  
