@@ -7,7 +7,6 @@ module.exports = {
         rootNote: `/main`,
       },
     },
-    `gatsby-plugin-netlify`
   ],
   siteMetadata: {
     title: `Hayul's Tech Garden`,
