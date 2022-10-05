@@ -5,10 +5,19 @@ module.exports = {
       options: {
         contentPath: `${__dirname}/src/site/notes`,
         rootNote: `/main`,
-        prismPreset: `github`
       },
     },
-    `gatsby-plugin-netlify`
+    `gatsby-plugin-netlify`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-highlight-code`
+          },
+        ],
+      },
+    }
   ],
   siteMetadata: {
     title: `Hayul's Tech Garden`,
