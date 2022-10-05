@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "post/숫자 문자열과 영단어.md",
+            "file": "main.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/숫자 문자열과 영단어.md",
+                "file": "main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/숫자 문자열과 영단어.md",
+                "file": "main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/숫자 문자열과 영단어.md"
+                "file": "main.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "eabf86104441dd8c",
   "lastOpenFiles": [
-    "post/코딩테스트.md",
-    "post/숫자 문자열과 영단어.md",
-    "post/기능개발.md",
-    "main.md",
     "post/논문 리뷰.md",
+    "post/코딩테스트.md",
+    "main.md",
     "post/GLUCOSE.md",
     "assets/my-mimoticon.png",
     "assets/my-mimoticon-live.mov",
     "Users/hyp/Desktop/git_blog/Posting/digital-garden/src/site/assets/my-mimoticon.png.md",
-    "''.md"
+    "''.md",
+    "post/기능개발.md",
+    "post/On Cross-Dataset Generalization in Automatic Detection of Online Abuse.md"
   ]
 }
