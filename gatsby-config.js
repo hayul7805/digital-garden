@@ -5,6 +5,7 @@ module.exports = {
       options: {
         contentPath: `${__dirname}/src/site/notes`,
         rootNote: `/main`,
+        prismPreset: `github`
       },
     },
     `gatsby-plugin-netlify`

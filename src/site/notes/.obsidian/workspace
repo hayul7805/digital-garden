@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "post/키패드 누르기.md",
+            "file": "post/코딩테스트.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/키패드 누르기.md",
+                "file": "post/코딩테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/키패드 누르기.md",
+                "file": "post/코딩테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/키패드 누르기.md"
+                "file": "post/코딩테스트.md"
               }
             }
           },
@@ -146,9 +146,9 @@
   },
   "active": "59a231729cf0a83d",
   "lastOpenFiles": [
+    "post/키패드 누르기.md",
     "post/숫자 문자열과 영단어.md",
     "post/코딩테스트.md",
-    "post/키패드 누르기.md",
     "post/논문 리뷰.md",
     "post/기능개발.md",
     "main.md",
