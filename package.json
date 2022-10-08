@@ -9,14 +9,15 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.32.13",
+    "@deckdeckgo/highlight-code": "^4.4.0",
+    "gatsby": "^4.24.3",
     "gatsby-remark-highlight-code": "^3.2.0",
     "gatsby-theme-garden": "^0.1.66",
     "gatsby-transformer-remark": "^5.24.0",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "gatsby-plugin-netlify": "^2.11.1"
+    "gatsby-plugin-netlify": "^5.0.1"
   }
 }
