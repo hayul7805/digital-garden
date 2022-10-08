@@ -7,17 +7,7 @@ module.exports = {
         rootNote: `/main`,
       },
     },
-    `gatsby-plugin-netlify`,
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: `gatsby-remark-highlight-code`
-          },
-        ],
-      },
-    }
+    `gatsby-plugin-netlify`
   ],
   siteMetadata: {
     title: `Hayul's Tech Garden`,

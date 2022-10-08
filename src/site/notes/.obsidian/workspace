@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "59a231729cf0a83d",
+        "id": "5841e5290ca80f21",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#LV-2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,22 +139,78 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "c44d8d34f6835385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67218930fc1e8d23",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "post/코딩테스트.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#LV-1",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#LV-2",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.88187767094017,
+                  "lineSizeMultiplier": 1.95942174145299,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.6377377708055005,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 536
   },
-  "active": "59a231729cf0a83d",
+  "active": "5841e5290ca80f21",
   "lastOpenFiles": [
-    "post/키패드 누르기.md",
-    "post/숫자 문자열과 영단어.md",
+    "post/다음 큰 숫자.md",
     "post/코딩테스트.md",
-    "post/논문 리뷰.md",
     "post/기능개발.md",
+    "post/올바른 괄호.md",
     "main.md",
+    "post/숫자 문자열과 영단어.md",
+    "post/논문 리뷰.md",
+    "post/키패드 누르기.md",
     "post/GLUCOSE.md",
-    "assets/my-mimoticon.png",
-    "assets/my-mimoticon-live.mov",
-    "Users/hyp/Desktop/git_blog/Posting/digital-garden/src/site/assets/my-mimoticon.png.md"
+    "assets/my-mimoticon.png"
   ]
 }

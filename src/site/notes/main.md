@@ -3,14 +3,11 @@ dg-home: true
 dg-publish: true
 ---
 
-# Main
-![Main](./assets/garden_main.jpg)
+# 🌱
 
 안녕하세요?  
-저의 개발 블로그, '하율의 디지털 가든'입니다.  
-여기에 앞으로의 포스팅이 업로드 됩니다.  
-가령, [[코딩테스트]] 이렇게요.  
-잘 지켜봐주세요. 감사합니다.  
+저의 개발 블로그, **'Hayul's digital garden'** 입니다.  
+아래 **Contents**를 통해 포스팅을 탐색할 수 있습니다. 
 
 ## Contents
 1. [[코딩테스트]]

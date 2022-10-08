@@ -9,7 +9,6 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@deckdeckgo/highlight-code": "^4.4.0",
     "gatsby": "^2.32.13",
     "gatsby-remark-highlight-code": "^3.2.0",
     "gatsby-theme-garden": "^0.1.66",
