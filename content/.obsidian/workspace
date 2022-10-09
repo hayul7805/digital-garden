@@ -7,8 +7,12 @@
         "id": "5841e5290ca80f21",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "posts/영어 끝말잇기.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/영어 끝말잇기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/영어 끝말잇기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/영어 끝말잇기.md"
+              }
             }
           },
           {
@@ -142,6 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "posts/영어 끝말잇기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,19 +198,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536
+    "width": 448
   },
-  "active": "5ac833cc67808fef",
+  "active": "5841e5290ca80f21",
   "lastOpenFiles": [
+    "posts/코딩테스트.md",
+    "posts/영어 끝말잇기.md",
+    "posts/다음 큰 숫자.md",
     "post/다음 큰 숫자.md",
     "post/코딩테스트.md",
     "post/기능개발.md",
     "post/올바른 괄호.md",
     "main.md",
     "post/숫자 문자열과 영단어.md",
-    "post/논문 리뷰.md",
-    "post/키패드 누르기.md",
-    "post/GLUCOSE.md",
-    "assets/my-mimoticon.png"
+    "post/논문 리뷰.md"
   ]
 }
